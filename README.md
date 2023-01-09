@@ -7,3 +7,7 @@ This was my first complete flutter project. I decided to use an Api to retrive d
 
 ## Outcome
 All in all I defiently learned a lot in this project. I have never used a cross-platform framework before. The widget system used in flutter is defiently unique. 
+
+https://user-images.githubusercontent.com/96704240/211227246-1bf5ee2d-1c10-491f-a78c-3e7ef41e931e.mp4
+
+![Green Blobs Basic Simple Presentation](https://user-images.githubusercontent.com/96704240/211227309-986eb85a-5529-40ae-aeb1-5656803455fb.jpg)
